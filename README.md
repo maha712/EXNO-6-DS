@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-![323212197-18a0f3c8-10a6-42b4-9eb3-45770f741ac3](https://github.com/maha712/EXNO-6-D![323212387-0124fef5-dcba-4c31-9831-db85384d9c5a](https://github.com/maha712/EXNO-6-DS/assets/121156360/fd0b0a82-8c8b-4082-a74e-85ca2ecc364a)
-S/assets/121156360/f21bd1c1-ab88-4d9a-b72c-4e3fcfa1b43a)
+![323212197-18a0f3c8-10a6-42b4-9eb3-45770f741ac3](https://github.com/maha712/EXNO-6-DS/assets/121156360/ed458789-db23-4b26-bf5e-d7bc5c07766d)
+
 ![323212532-1bbe2d28-735c-4114-aff7-9030d334c830](https://github.com/maha712/EXNO-6-DS/assets/121156360/24edce3a-3bc3-4d79-b07f-74aa9806c0e6)
 ![323212649-4d6c2a15-2352-4ba4-bd6b-97a54cd93ce7](https://github.com/maha712/EXNO-6-DS/assets/121156360/2ca3c4cf-8733-4582-aab7-7038f9624c0e)
 ![323212764-86b30955-7bb2-44af-92d1-39e8be4b56ea](https://github.com/maha712/EXNO-6-DS/assets/121156360/71569dd8-ff75-4151-9984-04a11c3cff13)
